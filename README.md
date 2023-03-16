@@ -24,7 +24,7 @@ A telecom company has hired us to create a prediction model in order to identify
 Some important conclusions from the exploratory analysis:
 
 * The major part of the customers **don't have international plan**.
-* Most of the customers **don't have voice mail plan**, as we previously observed.
+* Most of the customers **don't have voice mail plan**.
 * The current churn is around **14.5%**, higher than the average of similar companies in the Brazilian sector.
 * The **period of time** a customer stay with the services seemed not impact the choice of leaving the company;
 * There is a practically constant distribution of customers among the **code areas**;
