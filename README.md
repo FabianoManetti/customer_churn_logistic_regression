@@ -19,4 +19,15 @@ A telecom company has hired us to create a prediction model in order to identify
 
 <center><img src="images/churn_proportion.png"></center><br>
 
-Some important 
+Some important conclutions from the exploratory analysis:
+
+* The major part of the customers **don't have international plan**.
+* Most of the customers **don't have voice mail plan**, as we previously observed.
+* The current churn is around **14.5%**, higher than the average of similar companies in the Brazilian sector.
+* The **period of time** a customer stay with the services seemed not impact the choice of leaving the company;
+* There is a practically constant distribution of customers among the **code areas**;
+* 42.4% of the customers with **international plan** are classified as positive churn;
+* The churn is greater among customers that don't have a **voice mail plan**;
+* In general, the customers that **use more the service** are more prone to leave the company.
+* The features `Account length`, `Code area`, `Total day calls`,  `Total evening calls`, `Total night calls`, `Total evening charge`, `Total intl charge`, `Total night charge` presented similar patters between the two classes of churn and thus **don't seem to be good predictors**;
+* Especially the features `Internation plan`, `Number voice mail messages`, `Number customer service calls` and `Total day minutes` **showed differentiation** between the data for customers with positive status and the rest of the base.
