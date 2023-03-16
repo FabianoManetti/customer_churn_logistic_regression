@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"></img>
 </div>
 
-**This is part of the first training course of https://www.datascienceacademy.com.br/ Data Scientist program.**
+**This is part of the second training course of https://www.datascienceacademy.com.br/ Data Scientist program.**
 
 <center><img src="images/telecom_prediction.jpg"></center><br>
 
@@ -21,10 +21,10 @@ A telecom company has hired us to create a prediction model in order to identify
 
 <center><img src="images/churn_division.png"></center><br>
 
-Some important conclutions from the exploratory analysis:
+Some important conclusions from the exploratory analysis:
 
 * The major part of the customers **don't have international plan**.
-* Most of the customers **don't have voice mail plan**, as we previously observed.
+* Most of the customers **don't have voice mail plan**.
 * The current churn is around **14.5%**, higher than the average of similar companies in the Brazilian sector.
 * The **period of time** a customer stay with the services seemed not impact the choice of leaving the company;
 * There is a practically constant distribution of customers among the **code areas**;
@@ -54,7 +54,7 @@ We made use of statistical tests to formally check the previsous assumptions and
 
 As we previously identified, our target feature `Churn` is **inbalanced**, in other words it contains skewed class proportions that would cause our model result to be biased by the most frequent class. Besides, it's a good practice avoiding **unnormalized** data for similar reason.
 
-Therefore, we useed two techniques to balance data and then choose the one that best fits our problem: **Oversampling (RandomOverSampler)** and **Undersampling (NearMiss)**. Both balancing and normalization, along with model instantiation, were be done by a pipeline class in order to assemble all the steps and cross-validate them together. This is another good practice to avoid **data leakage**.
+Therefore, we used two techniques to balance data and then choose the one that best fits our problem: **Oversampling (RandomOverSampler)** and **Undersampling (NearMiss)**. Both balancing and normalization, along with model instantiation, were be done by a pipeline class in order to assemble all the steps and cross-validate them together. This is another good practice to avoid **data leakage**.
 
 ## Creating predictive models
 
