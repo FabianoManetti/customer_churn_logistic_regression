@@ -7,6 +7,6 @@
 
 **This is part of the first training course of https://www.datascienceacademy.com.br/ Data Scientist program.**
 
-<center><img src="teste.jpg"></center><br>
+<center><img src="telecom_prediction.jpg"></center><br>
 
 
