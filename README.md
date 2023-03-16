@@ -7,7 +7,7 @@
 
 **This is part of the first training course of https://www.datascienceacademy.com.br/ Data Scientist program.**
 
-<center><img src="telecom_prediction.jpg"></center><br>
+<center><img src="images/telecom_prediction.jpg"></center><br>
 
 # Problem Context
 
@@ -17,4 +17,4 @@ A telecom company has hired us to create a prediction model in order to identify
 
 # Exploratory Analysis
 
-
+Some important 
