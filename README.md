@@ -80,6 +80,8 @@ In order to evaluate which balancing techinique was more appropriate for our pro
 
 For the purposes of this project, we imposed a penalty for the model errors (**False positives** and **False Negative**): for the false negative values, that is, when the model predicts a customer woudn't churn but he/she actually leaves the company, we'll establish a **penalty of R\\$27,00** (average revenue per user - ARPU - for Brazilian companys in this sector); for the false positive values, that is, when the model predicts a customer would churn but he/she actually didnt' churn, we'll impose a **penalty of R\\$7,00** (around 25% of discount, that would be granted for the customers to stay in the company).
 
+<center><img src="images/cost_function.png"></center><br>
+
 After evaluating the results, we decided to follow with the **Oversampling** model and a **0.55** threshold value.
 
 ## Feature Importance and model tuning
