@@ -17,4 +17,6 @@ A telecom company has hired us to create a prediction model in order to identify
 
 # Exploratory Analysis
 
+<center><img src="images/churn_proportion.jpg"></center><br>
+
 Some important 
