@@ -54,7 +54,7 @@ We made use of statistical tests to formally check the previsous assumptions and
 
 As we previously identified, our target feature `Churn` is **inbalanced**, in other words it contains skewed class proportions that would cause our model result to be biased by the most frequent class. Besides, it's a good practice avoiding **unnormalized** data for similar reason.
 
-Therefore, we useed two techniques to balance data and then choose the one that best fits our problem: **Oversampling (RandomOverSampler)** and **Undersampling (NearMiss)**. Both balancing and normalization, along with model instantiation, were be done by a pipeline class in order to assemble all the steps and cross-validate them together. This is another good practice to avoid **data leakage**.
+Therefore, we used two techniques to balance data and then choose the one that best fits our problem: **Oversampling (RandomOverSampler)** and **Undersampling (NearMiss)**. Both balancing and normalization, along with model instantiation, were be done by a pipeline class in order to assemble all the steps and cross-validate them together. This is another good practice to avoid **data leakage**.
 
 ## Creating predictive models
 
