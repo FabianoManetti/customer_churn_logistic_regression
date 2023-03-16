@@ -21,7 +21,7 @@ A telecom company has hired us to create a prediction model in order to identify
 
 <center><img src="images/churn_division.png"></center><br>
 
-Some important conclutions from the exploratory analysis:
+Some important conclusions from the exploratory analysis:
 
 * The major part of the customers **don't have international plan**.
 * Most of the customers **don't have voice mail plan**, as we previously observed.
