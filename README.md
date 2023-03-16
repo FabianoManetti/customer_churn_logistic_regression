@@ -31,3 +31,11 @@ Some important conclutions from the exploratory analysis:
 * In general, the customers that **use more the service** are more prone to leave the company.
 * The features `Account length`, `Code area`, `Total day calls`,  `Total evening calls`, `Total night calls`, `Total evening charge`, `Total intl charge`, `Total night charge` presented similar patters between the two classes of churn and thus **don't seem to be good predictors**;
 * Especially the features `Internation plan`, `Number voice mail messages`, `Number customer service calls` and `Total day minutes` **showed differentiation** between the data for customers with positive status and the rest of the base.
+
+# Feature Engineering
+
+In order to increase the number of **available features**, we identified the possibility to convert the `Number customer service calls` into a categorical column, called `Use customer service calls` and later we also condensated 4 similar features into one new feature, and then reduced the dimensionality.
+
+
+
+
