@@ -19,6 +19,8 @@ A telecom company has hired us to create a prediction model in order to identify
 
 <center><img src="images/churn_proportion.png"></center><br>
 
+<center><img src="images/churn_division.png"></center><br>
+
 Some important conclutions from the exploratory analysis:
 
 * The major part of the customers **don't have international plan**.
