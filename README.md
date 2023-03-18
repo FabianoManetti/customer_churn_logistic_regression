@@ -3,7 +3,7 @@
 <div align="center">
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow"> </img>
 <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"></img>
-[![Linkedin Badge](https://img.shields.io/badge/-Fabiano Manetti-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabiano-manetti/)](https://www.linkedin.com/in/fabiano-manetti/)
+[![Linkedin Badge](https://img.shields.io/badge/-Fabiano_Manetti-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabiano-manetti/)](https://www.linkedin.com/in/fabiano-manetti/)
 </div>
 
 **This is part of the second training course of https://www.datascienceacademy.com.br/ Data Scientist program.**
