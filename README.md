@@ -14,7 +14,7 @@
 
 ## Problem Context
 
-**Customer Churn** refers to the imminent possibility of a client stop using a company's product or service. It is generally measured as a percentage of the customer base that leave the company during a certain period of time (usually monthly).
+**Customer Churn** refers to the imminent possibility of a client stop using a company's product or service. It is generally measured as a percentage of the customer base that leaves the company during a certain period of time (usually monthly).
 
 A telecom company has hired us to create a prediction model in order to identify these customers and be able to create commercial strategies to retain them. It was requested the use of a **Logistic Regression** algorithm for being a simple and efficient model.
 
